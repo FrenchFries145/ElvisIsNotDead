@@ -33,7 +33,16 @@ article {
     margin:10px 0 10px 0;
     width: 77.5%;
     float:right;
-}	
+}
+
+iframe {
+width: 35%; 
+float: left;
+}
+
+section img{
+    width: 50%;
+}
 
 section {
     background-color:yellow;
